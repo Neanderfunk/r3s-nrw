@@ -1,0 +1,17 @@
+language: bash
+
+services:
+- docker
+
+stages:
+  - Check
+  - Build
+jobs:
+  include:
+    - stage: Check
+      script:
+        - docker run --rm -i -v $(pwd):/src klakegg/hugo:latest check
+    - stage: Build
+      script:
+        - docker run --rm -i -v $(pwd):/src klakegg/hugo:latest -v
+

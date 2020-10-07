@@ -1,0 +1,4 @@
+baseURL = "https://r3s.nrw/"
+languageCode = "en-us"
+title = "Remote Rhein Ruhr"
+theme = ["ananke"]
