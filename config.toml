@@ -40,4 +40,33 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/20191228-36c3-OIO-1.JPG"
-  recent_posts_number = 2
+  # recent_posts_number = 2
+
+  [[menu.main]]
+    name = "CfP"
+    title = "CfP"
+    weight = 2
+    url = "/cfp"
+
+    [[menu.main]]
+    name = "FAQ"
+    title = "FAQ"
+    weight = 2
+    url = "/faq"
+
+    [[menu.main]]
+    name = "Über uns"
+    title = "Über uns"
+    weight = 3
+    url = "/about"
+
+    [[menu.main]]
+    name = "Spenden"
+    title = "Spenden"
+    weight = 4
+    url = "/donation"
+
+    [[menu.main]]
+    name = "Impressum"
+    weight = 5
+    url = "/impressum/"

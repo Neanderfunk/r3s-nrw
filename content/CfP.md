@@ -1,9 +1,9 @@
-# r3s auf dem rC3: Call for Participation/People/Ideas 
+# r3s on the rC3: Call for Participation/People/Ideas 
 Die Remote-Rhein-Ruhr-Stage als professionelle Bühne für alle bietet physikalischen Raum auf dem virtuellen Congress für Menschen, Projekte, Gruppen und Communities.
 In diesem Jahr wird es keinen Congress geben, wie wir ihn aus den letzten Jahren kannten. Stattdessen wird es eine verteilte Veranstaltung geben, mit vielen Möglichkeiten, remote daran teilzunehmen.
 
 Und Teilnahme ist hier das Stichwort der Stunde. Um die Tage zwischen Weihnachten und Neujahr spannend auszufüllen suchen wir eure Ideen!
-Lasst uns verrückte Dinge tun, mit weniger Holz und B1, dafür mit mehr Cyberspace. 
+Lasst uns verrückte Dinge tun, mit weniger Holz und B1, dafür mit mehr Cyberspace.
 
 Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechende Equipment bereit stellen, über Diskussionsrunden oder Panels bish hin zu völlig neuen Formaten z.B. in Form von Workshops, bei denen die Teilnehmer sogar zu Hause parallel mitmachen können.
 
@@ -16,8 +16,8 @@ Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechen
 --> Hier ist mir nicht klar wofür??? Passt nicht ins Konzept, ist eher was generelles zum rC3, würde ich weglassen.
 
 ### Denkanstöße für potentielle Beiträge, last eurer Kreativität freien Lauf:
-- Welche Formate kennt ihr, um mit anderen virtuell/remote Workshops durchzuführen? 
-- Was könnt ihr remote machen, was ihr auf dem Congress nicht tun könntet? 
+- Welche Formate kennt ihr, um mit anderen virtuell/remote Workshops durchzuführen?
+- Was könnt ihr remote machen, was ihr auf dem Congress nicht tun könntet?
 - Kennt ihr gemeinsame Onlinespiele, bei denen man mitmachen oder einfach nur zusehen kann?
 - Habt ihr Ideen wie “Yogaworkshop - gemeinsam Sport machen” oder “Bob Ross - zusammen malen” umgesetzt oder gar erweitert werden können?
 - Wofür wolltet ihr einen virtuellen Congress schon immer mal nutzen?
