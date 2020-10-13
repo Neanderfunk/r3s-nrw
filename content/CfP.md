@@ -12,17 +12,15 @@ Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechen
 - **Workshop Area:** Wir möchten eine Workshop Area gestalten, bei der Menschen von remote euch zusehen. Dazu bieten wir einen Workshoptisch der auch in Großaufnahme "von oben" gefilmt wird. Je nachdem was ihr plant können Zuschauer von zu Hause aus parallel mit euch an einem Projekt mitarbeiten.
 - **Podium:** Wir bieten eine Plattform, um Diskussionsrunden und Panels remote durchzuführen.
 
-% Kaffeeecke:** Und natürlich, damit der persönliche Austausch nicht zu kurz kommt, soll es eine virtuelle Kaffeebar/Sofaecke und Spieleecken geben.
---> Hier ist mir nicht klar wofür??? Passt nicht ins Konzept, ist eher was generelles zum rC3, würde ich weglassen.
-
-### Denkanstöße für potentielle Beiträge, last eurer Kreativität freien Lauf:
+### Denkanstöße für potentielle Beiträge, lasst eurer Kreativität freien Lauf:
 - Welche Formate kennt ihr, um mit anderen virtuell/remote Workshops durchzuführen?
 - Was könnt ihr remote machen, was ihr auf dem Congress nicht tun könntet?
 - Kennt ihr gemeinsame Onlinespiele, bei denen man mitmachen oder einfach nur zusehen kann?
 - Habt ihr Ideen wie “Yogaworkshop - gemeinsam Sport machen” oder “Bob Ross - zusammen malen” umgesetzt oder gar erweitert werden können?
 - Wofür wolltet ihr einen virtuellen Congress schon immer mal nutzen?
 
-Folgende Infos zu eurem Vorschlag oder eurer Idee wären hilfreich:
+Folgende Infos zu eurem Vorschlag oder eurer Idee sind hilfreich:
+
 - Wie stellt ihr euch das ungefähr vor? (Grobes Konzept, Zielsetzung, Teilnehmeranzahl, Setup, Vorbereitung, Durchführende...)
 - Welche Technik wird benötigt?
 - Welche Voraussetzungen müssen für TeilnehmerInnen erfüllt sein?
