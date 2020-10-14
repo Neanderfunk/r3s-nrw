@@ -5,8 +5,6 @@ theme = ["osm","ananke"]
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-#Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
@@ -23,21 +21,11 @@ enableRobotsTXT = true
   favicon = "/images/favicon.png"
   site_logo = "/images/Rakete_w.png"
   description = "Remote Rhein Ruhr Stage http://r3s.nrw zum rC3"
-  facebook = ""
   twitter = "https://twitter.com/RuhrStage"
-  instagram = ""
-  youtube = ""
   #github = "https://github.com/Neanderfunk/r3s-nrw"
-  gitlab = ""
-  linkedin = ""
   mastodon = "https://chaos.social/@r3s"
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
-  # recent_posts_number = 2
 
   [[menu.main]]
     name = "CfP"
