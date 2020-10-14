@@ -27,31 +27,60 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
 
-  [[menu.main]]
+  [[languages.en.menu.main]]
     name = "CfP"
     title = "CfP"
     weight = 1
     url = "/cfp"
 
-    [[menu.main]]
+  [[languages.de.menu.main]]
+    name = "CfP"
+    title = "CfP"
+    weight = 1
+    url = "/cfp"
+
+  [[languages.en.menu.main]]
     name = "FAQ"
     title = "faq"
     weight = 2
     url = "/faq"
 
-    [[menu.main]]
+  [[languages.de.menu.main]]
+    name = "FAQ"
+    title = "faq"
+    weight = 2
+    url = "/faq"
+
+  [[languages.en.menu.main]]
+    name = "About us"
+    title = "About us"
+    weight = 3
+    url = "/about"
+
+  [[languages.de.menu.main]]
     name = "Über uns"
     title = "Über uns"
     weight = 3
     url = "/about"
 
-    [[menu.main]]
+  [[languages.en.menu.main]]
     name = "Anfahrt"
     title = "Anfahrt"
     weight = 4
     url = "/anfahrt"
 
-    [[menu.main]]
+  [[languages.de.menu.main]]
+    name = "Anfahrt"
+    title = "Anfahrt"
+    weight = 4
+    url = "/anfahrt"
+
+  [[languages.en.menu.main]]
+    name = "Impressum"
+    weight = 6
+    url = "/impressum/"
+
+  [[languages.de.menu.main]]
     name = "Impressum"
     weight = 6
     url = "/impressum/"
