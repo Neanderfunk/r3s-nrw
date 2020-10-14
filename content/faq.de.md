@@ -30,7 +30,7 @@ Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wo
 Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur "Hände+Folien" ist möglich. 
 
 ## Warum gerade Monheim?
-Mit dem (Sojus7)[https://www.sojus.de] bestanden bereits Kontakte zwischen den Freifunkenden vom "Neanderfunk"
+Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zwischen den Freifunkenden vom "Neanderfunk"
 
 * die Volkshochschule Monheim ist ein Gebäude in dem auch derzeit unter Coronaauflagen Kurse abgehalten werden, es besteht also ein etabliertes Konzept (welches wir selbstständlich anpassen)
 * Die VHS ist über die Weihnachtsfeiertage nicht belegt
@@ -39,7 +39,7 @@ Mit dem (Sojus7)[https://www.sojus.de] bestanden bereits Kontakte zwischen den F
 * Die Lage in einer Hochhaussiedlung der 1970er sichert preisgünstige Nahversorgung mit halbwegs entspannten Öffnungszeiten
 
 ## Wer seid ihr?
-Wir sind Menschen, die in den letzten Jahren auf dem Congress z.B. bei (OpenInfrastructureOrbit(OIO))[http://oio.social] aktiv waren, in Erfa-Kreisen in z.B. (CCCAC)[https://aachen.ccc.de], (Chaospott)[https://chaospott.de/] oder beim Freifunk im (Neanderland)[https://www.neanderfunk.de/] sind.
+Wir sind Menschen, die in den letzten Jahren auf dem Congress z.B. bei [OpenInfrastructureOrbit(OIO)](http://oio.social) aktiv waren, in Erfa-Kreisen in z.B. [CCCAC](https://aachen.ccc.de), [Chaospott](https://chaospott.de/) oder beim [Freifunk](http://www.freifunk.net) im [Neanderland](https://www.neanderfunk.de/) sind.
 
 ## Infos zum rC3
 Auch für das r3s-Orgateam ist das in gewisser Weise #Neuland. Neben den technischen Herausforderungen, die wir meistern werden, bietet eine Veranstaltung, an der man sich remote beteiligen kann, auch Chancen:
