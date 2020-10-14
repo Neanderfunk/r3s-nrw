@@ -19,7 +19,7 @@ Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechen
 - Habt ihr Ideen wie “Yogaworkshop - gemeinsam Sport machen” oder “Bob Ross - zusammen malen” umgesetzt oder gar erweitert werden können?
 - Wofür wolltet ihr einen virtuellen Congress schon immer mal nutzen?
 
-Folgende Infos zu eurem Vorschlag oder eurer Idee wären hilfreich:
+## Folgende Infos zu eurem Vorschlag oder eurer Idee sind hilfreich:
 - Wie stellt ihr euch das ungefähr vor? (Grobes Konzept, Zielsetzung, Teilnehmeranzahl, Setup, Vorbereitung, Durchführende...)
 - Welche Technik wird benötigt?
 - Welche Voraussetzungen müssen für TeilnehmerInnen erfüllt sein?
