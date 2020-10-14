@@ -26,7 +26,7 @@ Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechen
 - Was kostet es?
 
 Zum jetzigen Zeitpunkt sind wir vor allem auf der Suche nach Ideen für Formate oder Möglichkeiten, sich im digitalen Raum zu bewegen. Für konkrete Vorschläge wie Talks, Workshops, Parties, Ideenumsetzung: [Hier geht's zum pretalx](https://pretalx.r3s.nrw/r3s/)
-Wenn ihr uns bei der Organisation helfen, eure Assembly mit uns vernetzen oder einfach Informationen mitteilen möchtet, findet Ihr unsere Orga-Treffen-Termine demnächst hier in den News.
+Wenn ihr uns bei der Organisation helfen, eure Assembly mit uns vernetzen oder einfach Informationen mitteilen möchtet, geht es [hier zum Einhornsystem](https://einhorn.r3s.nrw).
 
 **Viele Grüße
 Das r3s Orgateam**
