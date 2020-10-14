@@ -10,9 +10,6 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "Remote Rhein Ruhr"
-    weight = 1
   [languages.de]
     title = "Remote Rhein Ruhr"
     weight = 2
@@ -65,12 +62,6 @@ enableRobotsTXT = true
     title = "Anfahrt"
     weight = 4
     url = "/anfahrt"
-
-    [[menu.main]]
-    name = "Spenden"
-    title = "Spenden"
-    weight = 5
-    url = "/donation"
 
     [[menu.main]]
     name = "Impressum"
