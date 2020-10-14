@@ -5,7 +5,7 @@ Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
-* Mach mit bei unserem (Call for Participation/People/Ideas) [https://pretalx.r3s.nrw/]
+* Mach mit bei unserem [Call for Participation/People/Ideas](https://pretalx.r3s.nrw/)
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
 * Komm zu unseren Treffen, Details hierzu folgen. 
 
@@ -13,7 +13,7 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 Gern! Wir brauchen viele Helfer, die die Bühne betreiben und im Vorfeld das Programm organisieren. Wir haben regelmäßige Online-Meetings und haben vor Ort Einhornschichten zu vergeben.
 
 ## Einhorn? und nicht Engelsystem?
-Die Gründe für die Wahl des Namens [Einhornsystem) [https://einhorn.r3s.nrw/] sind unklar. Wir sind mit dem Namen glücklich.
+Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
 
 ## Kann ich vorbeikommen?
 Durch die Corona-Auflagen sind große Ansammlungen untersagt. 
