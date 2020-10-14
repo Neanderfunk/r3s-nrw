@@ -10,8 +10,6 @@
  * Shuttlemöglichkeit: Wir hoffen auf etwas mit großen Akkus
  
  {{< openstreetmap mapName="VHS-Monheim/Rhein" >}}
-
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/vhs-monheimrhein_510558?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/vhs-monheimrhein_510558">See full screen</a></p>
  
 http://umap.openstreetmap.fr/en/map/anonymous-edit/510558:2kiiY8BkdiBCYtgjJOfRHF8tBEA
 
