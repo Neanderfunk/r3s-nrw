@@ -19,7 +19,7 @@ Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) s
 Durch die Corona-Auflagen sind große Ansammlungen untersagt. 
 
 * Falls Publikum erlaubt wird werden wir das entsprechend vorab bekannt geben und durch Ticketvergabe steuern.
-* Helfende benötigen eine Schicht im [Einhornsystem) [https://einhorn.r3s.nrw/]
+* Helfende benötigen eine Schicht im [Einhornsystem](https://einhorn.r3s.nrw/)
 
 **Du kannst keinesfalls spontan vorbei kommen.**
 
