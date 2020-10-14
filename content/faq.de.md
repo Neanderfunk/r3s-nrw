@@ -14,6 +14,7 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 
 ## Ich will mithelfen
 Gern! Wir brauchen viele Helfer, die die Bühne betreiben und im Vorfeld das Programm organisieren. Wir haben regelmäßige Online-Meetings und haben vor Ort Einhornschichten zu vergeben.
+Unser Einhornsystem findet ihr hier: https://einhorn.r3s.nrw
 
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
