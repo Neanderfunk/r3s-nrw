@@ -43,7 +43,7 @@ Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zwischen den F
 [Monheim](https://de.wikipedia.org/wiki/Monheim_am_Rhein) ist eine Stadt von 40k Meschen und liegt rechtsrheinisch zwischen Köln und Düsseldorf.
 Anfahrtsplan folgt!
 
-* Wir werden uns auf die eine oder andere Weise darum kümmern, dass es nicht für Deinen Talk nicht an den letzten Kilometern scheitert. 
+* Wir werden uns auf die eine oder andere Weise darum kümmern, dass es für Deinen Talk nicht an den letzten Kilometern scheitert. 
 * Irgendeine Form von Shuttleservice mindestens bis zur S-Bahnstation Langenfeld werden wir in den Randzeiten möglich machen.
 
 ## Wer seid ihr?
