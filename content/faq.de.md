@@ -1,10 +1,10 @@
 # FAQ
 
 ## Für wen ist die r3s?
-Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen Remote Chaos Experience (rc3) verbinden wollen.
+Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen Remote Chaos Experience (rC3) verbinden wollen.
 
 ## Warum überhaupt r3s?
-r3s ist unsere Abkürzung für „RheinRuhrRemoteStage“. Andere behaupten es hiesse „Rhein-Ruhr-Rur-Stage“. Auf jeden Fall ist r3s für den Domainnamen einfacher zu merken.
+r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Andere behaupten es hiesse „Rhein-Ruhr-Rur-Stage“. Auf jeden Fall ist r3s als Domainname einfacher zu merken.
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
@@ -15,18 +15,19 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 ## Ich will mithelfen
 Gern! Wir brauchen viele Helfer, die die Bühne betreiben und im Vorfeld das Programm organisieren. Wir haben regelmäßige Online-Meetings und haben vor Ort Einhornschichten zu vergeben.
 
-## Wie arbeitet ihr zusammen / wo bereitet ihr vor?
- * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net] auf dem Server von freifunk.net
+## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
+ * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
  * vieles läuft per Telegram
  * ein paar Mailverteiler gibt es auch
- * Kommunikation per (RocketChat)[http://rocket.events.ccc.de] geht auch, ist aber nicht unser primäres internes Medium
+ * Kommunikation per [RocketChat](http://rocket.events.ccc.de) geht auch, ist aber nicht unser primäres internes Medium
  * IRC, Mastodon, Signal, Twitter haben einige im Team
 
 ## Womit arbeitet ihr? 
 Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B. 
+
   * [Pretalx](https://pretalx.com/p/about/)
   * [Engelsystem](https://engelsystem.de/)
-  * [Pretix](https://pretix.eu/) (noch in Diskussion)
+  * [Pretix](https://pretix.eu/)
   * [Etherpad](https://yopad.eu/)
   * [CodiMD](https://github.com/codimd/server)
   * [Infobeamer](https://info-beamer.com/)
@@ -35,8 +36,8 @@ Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B.
   * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
   * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
 
-## Wie erreiche ich Euch per E-Mail?
-Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw]
+## Wie erreiche ich euch per E-Mail?
+Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw)
 
 ## Einhorn? und nicht Engelsystem?
 Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
