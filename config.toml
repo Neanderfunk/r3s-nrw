@@ -10,9 +10,9 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "Remote Rhein Ruhr"
-    weight = 1
+  #[languages.en]
+  #  title = "Remote Rhein Ruhr"
+  #  weight = 1
   [languages.de]
     title = "Remote Rhein Ruhr"
     weight = 2
