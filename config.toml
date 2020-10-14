@@ -50,7 +50,7 @@ enableRobotsTXT = true
 
     [[menu.main]]
     name = "FAQ"
-    title = "FAQ"
+    title = "faq"
     weight = 2
     url = "/faq"
 
@@ -61,12 +61,18 @@ enableRobotsTXT = true
     url = "/about"
 
     [[menu.main]]
+    name = "Anfahrt"
+    title = "Anfahrt"
+    weight = 4
+    url = "/anfahrt"
+
+    [[menu.main]]
     name = "Spenden"
     title = "Spenden"
-    weight = 4
+    weight = 5
     url = "/donation"
 
     [[menu.main]]
     name = "Impressum"
-    weight = 5
+    weight = 6
     url = "/impressum/"
