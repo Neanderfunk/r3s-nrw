@@ -1,5 +1,5 @@
 # Über uns
-Die Remote-Rhein-Ruhr Stage ist eine richtige, echte Bühne auf dem "Remote-Congress". Sie ist für alle Gruppen, Institutionen und Individuen die sich live mit allen anderen Individuen auf dem rC3 verbinden wollen. Dieses Jahr ist alles anders und wir werden uns nicht analog auf dem eigentlichen „37c3“ treffen sondern virtuell auf dem rC3. In diesem Rahmen möchten wir allen in der Region eine Bühne bieten um mit anderen im #Neuland in Kontakt zu treten - die r3s.
+Die Remote-Rhein-Ruhr Stage ist eine richtige, echte Bühne auf dem "Remote-Congress". Sie ist für alle Gruppen, Institutionen und Individuen die sich live mit allen anderen Individuen auf dem rC3 verbinden wollen. Dieses Jahr ist alles anders und wir werden uns nicht analog auf dem eigentlichen "37c3“ treffen sondern virtuell auf dem rC3. In diesem Rahmen möchten wir allen in der Region eine Bühne bieten um mit anderen im #Neuland in Kontakt zu treten - die r3s.
 
 Die r3s befindet sich im südlichen Kreis Mettmann im schönen Städtchen Monheim am Rhein. Dieses liegt zwischen den beiden Großstädten Düsseldorf und Köln.
 Wir haben über die Jugend- und Kultureinrichtung [Sojus7](sojus.de) eine professionelle Bühne im großen Saal der VHS organisiert. Hier könnt Ihr Präsenationen halten, als ob ihr auf dem „richtigen“ C3 seid. Zusätzlich haben wir noch eine Maker-Stage in einem zweiten Raum.
