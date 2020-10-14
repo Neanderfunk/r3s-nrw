@@ -12,9 +12,9 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
 * brauchen viele Helfende, sowohl vor Ort in Monheim, als auch für Dinge, die remote getan werden können. Unser Einhornsystem findet ihr hier: https://einhorn.r3s.nrw   
   
- **komm zu unseren Mumble-Treffen!**
+  **komm zu unseren Mumble-Treffen!**
 
-## Kann ich vorbeikommen?
+## Kann ich vor Ort vorbeikommen?
 Durch die Corona-Auflagen sind große Ansammlungen untersagt. 
 
 * Falls Publikum erlaubt wird werden wir das entsprechend vorab bekannt geben und durch Ticketvergabe steuern.
@@ -24,21 +24,12 @@ Durch die Corona-Auflagen sind große Ansammlungen untersagt.
 
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
- * vieles läuft per Telegram
- * ein paar Mailverteiler gibt es auch
+ * vieles läuft diese [Telegram-Gruppe](https://t.me/RemoteRheinRuhrStage)
+ * ein paar Mailverteiler gibt es auch, schreibe uns an. Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw)
  * Kommunikation per [RocketChat](http://rocket.events.ccc.de) geht auch, ist aber nicht unser primäres internes Medium
  * IRC, Mastodon, Signal, Twitter haben einige im Team
 
-## Wie erreiche ich euch per E-Mail?
-Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw)
-
-## Ich habe eine Idee!
-Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wollen ihn mindestens so cool gestalten wie Präsenzcongresse.
-
-## Ich möchte nicht mit Bild ins Netz
-Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
-
-## Wo steht die r2s? Warum gerade Monheim?
+## Wo steht die r3s? Warum gerade Monheim?
 Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zu den Freifunkenden vom „Neanderfunk“
 
 * die Volkshochschule Monheim hat eine geräumige Aula in der sich „Durchzug“ lüften lässt. 
@@ -50,10 +41,16 @@ Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zu den Freifun
 
 ## Wo ist das und wie soll ich da hinkommen?
 [Monheim](https://de.wikipedia.org/wiki/Monheim_am_Rhein) ist eine Stadt von 40k Meschen und liegt rechtsrheinisch zwischen Köln und Düsseldorf.
-Anfahrtsplan folgt!
+[Anfahrtsplan](/anfahrt)
 
 * Wir werden uns auf die eine oder andere Weise darum kümmern, dass es für Deinen Talk nicht an den letzten Kilometern scheitert. 
 * Irgendeine Form von Shuttleservice mindestens bis zur S-Bahnstation Langenfeld werden wir in den Randzeiten möglich machen.
+
+## Ich habe eine Idee!
+Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wollen ihn mindestens so cool gestalten wie Präsenzcongresse.
+
+## Ich möchte nicht mit Bild ins Netz
+Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
 
 ## Wer seid ihr?
 Wir sind Menschen, die in den letzten Jahren auf dem Congress z.B. bei [OpenInfrastructureOrbit(OIO)](http://oio.social) aktiv waren, in Erfa-Kreisen in z.B. [CCCAC](https://aachen.ccc.de), [Chaospott](https://chaospott.de/) oder beim [Freifunk](http://www.freifunk.net) im [Neanderland](https://www.neanderfunk.de/) sind.
@@ -82,3 +79,6 @@ Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B.
   * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
   * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
 
+## can i have an english translation ##
+
+We are working on it, please stand by!
