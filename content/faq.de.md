@@ -5,7 +5,7 @@ Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
-* Mach mit bei unserem [Call for Participation/People/Ideas](https://pretalx.r3s.nrw/)
+* Mach mit bei unserem [Call for Participation/People/Ideas](https://pretalx.r3s.nrw/r3s/)
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
 * Komm zu unseren Treffen, Details hierzu folgen. 
 

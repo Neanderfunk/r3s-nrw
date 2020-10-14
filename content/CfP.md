@@ -38,9 +38,9 @@ The following information about your proposal or idea is helpful:
 
 At the moment we are mainly looking for ideas for formats or possibilities to move in the digital space. 
 For concrete suggestions such as talks, workshops, parties, idea implementation, there is the possibility to 
-register and submit them at https://pretalx.r3s.nrw . If you would like to help us with the organisation, network 
+register and submit them in our [pretalx](https://pretalx.r3s.nrw/r3s/). If you would like to help us with the organisation, network 
 your assembly with us or simply share information, you will soon find our organising meeting dates on our 
-website https://r3s.nrw.
+[website]( https://r3s.nrw).
 
 Kind regards  
 the r3s organisation comitee.

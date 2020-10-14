@@ -12,9 +12,6 @@ Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechen
 - **Workshop Area:** Wir möchten eine Workshop Area gestalten, bei der Menschen von remote euch zusehen. Dazu bieten wir einen Workshoptisch der auch in Großaufnahme "von oben" gefilmt wird. Je nachdem was ihr plant können Zuschauer von zu Hause aus parallel mit euch an einem Projekt mitarbeiten.
 - **Podium:** Wir bieten eine Plattform, um Diskussionsrunden und Panels remote durchzuführen.
 
-% Kaffeeecke:** Und natürlich, damit der persönliche Austausch nicht zu kurz kommt, soll es eine virtuelle Kaffeebar/Sofaecke und Spieleecken geben.
---> Hier ist mir nicht klar wofür??? Passt nicht ins Konzept, ist eher was generelles zum rC3, würde ich weglassen.
-
 ### Denkanstöße für potentielle Beiträge, last eurer Kreativität freien Lauf:
 - Welche Formate kennt ihr, um mit anderen virtuell/remote Workshops durchzuführen? 
 - Was könnt ihr remote machen, was ihr auf dem Congress nicht tun könntet? 
@@ -28,8 +25,8 @@ Folgende Infos zu eurem Vorschlag oder eurer Idee wären hilfreich:
 - Welche Voraussetzungen müssen für TeilnehmerInnen erfüllt sein?
 - Was kostet es?
 
-Zum jetzigen Zeitpunkt sind wir vor allem auf der Suche nach Ideen für Formate oder Möglichkeiten, sich im digitalen Raum zu bewegen. Für konkrete Vorschläge wie Talks, Workshops, Parties, Ideenumsetzung wird es dann die Möglichkeit geben, sich unter https://pretalx.r3s.nrw anzumelden und sie einzureichen.
-Wenn ihr uns bei der Organisation helfen, eure Assembly mit uns vernetzen oder einfach Informationen mitteilen möchtet, findet Ihr unsere Orga-Treffen-Termine demnächst auf unserer Website https://r3s.nrw.
+Zum jetzigen Zeitpunkt sind wir vor allem auf der Suche nach Ideen für Formate oder Möglichkeiten, sich im digitalen Raum zu bewegen. Für konkrete Vorschläge wie Talks, Workshops, Parties, Ideenumsetzung: [Hier geht's zum pretalx](https://pretalx.r3s.nrw/r3s/)
+Wenn ihr uns bei der Organisation helfen, eure Assembly mit uns vernetzen oder einfach Informationen mitteilen möchtet, findet Ihr unsere Orga-Treffen-Termine demnächst hier in den News.
 
 Viele Grüße
 Das r3s Orgateam
