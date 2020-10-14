@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Remote Rhein Ruhr"
 theme = ["osm","ananke"]
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 #Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
