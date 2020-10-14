@@ -12,7 +12,15 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
 * brauchen viele Helfende, sowohl vor Ort in Monheim, als auch für Dinge, die remote getan werden können. Unser Einhornsystem findet ihr hier: https://einhorn.r3s.nrw   
   
-  **komm zu unseren Treffen!**
+ **komm zu unseren Mumble-Treffen!**
+
+## Kann ich vorbeikommen?
+Durch die Corona-Auflagen sind große Ansammlungen untersagt. 
+
+* Falls Publikum erlaubt wird werden wir das entsprechend vorab bekannt geben und durch Ticketvergabe steuern.
+* Helfende benötigen eine Schicht im [Einhornsystem](https://einhorn.r3s.nrw/)
+
+  **Du kannst keinesfalls spontan vorbei kommen.**
 
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
@@ -21,33 +29,8 @@ Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
  * Kommunikation per [RocketChat](http://rocket.events.ccc.de) geht auch, ist aber nicht unser primäres internes Medium
  * IRC, Mastodon, Signal, Twitter haben einige im Team
 
-## Womit arbeitet ihr? 
-Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B. 
-
-  * [Pretalx](https://pretalx.com/p/about/)
-  * [Engelsystem](https://engelsystem.de/)
-  * [Pretix](https://pretix.eu/)
-  * [Etherpad](https://yopad.eu/)
-  * [CodiMD](https://github.com/codimd/server)
-  * [Infobeamer](https://info-beamer.com/)
-  * Teile der [VOC-Toolchain](https://c3voc.de/)
-  
-  * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
-  * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
-
 ## Wie erreiche ich euch per E-Mail?
 Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw)
-
-## Einhorn? und nicht Engelsystem?
-Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
-
-## Kann ich vorbeikommen?
-Durch die Corona-Auflagen sind große Ansammlungen untersagt. 
-
-* Falls Publikum erlaubt wird werden wir das entsprechend vorab bekannt geben und durch Ticketvergabe steuern.
-* Helfende benötigen eine Schicht im [Einhornsystem](https://einhorn.r3s.nrw/)
-
-**Du kannst keinesfalls spontan vorbei kommen.**
 
 ## Ich habe eine Idee!
 Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wollen ihn mindestens so cool gestalten wie Präsenzcongresse.
@@ -55,8 +38,8 @@ Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wo
 ## Ich möchte nicht mit Bild ins Netz
 Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
 
-## Warum gerade Monheim?
-Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zwischen den Freifunkenden vom „Neanderfunk“
+## Wo steht die r2s? Warum gerade Monheim?
+Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zu den Freifunkenden vom „Neanderfunk“
 
 * die Volkshochschule Monheim hat eine geräumige Aula in der sich „Durchzug“ lüften lässt. 
 * Im Gebäude werden auch derzeit unter Coronaauflagen Kurse abgehalten; es besteht also ein etabliertes Konzept (welches wir selbstständlich anpassen)
@@ -81,3 +64,21 @@ Auch für das r3s-Orgateam ist das in gewisser Weise #Neuland. Neben den technis
   * Es können Menschen teilnehmen, die sonst vielleicht kein Ticket bekommen hätten oder sich keines leisten konnten.
   * Menschen aus anderen Ländern/von anderen Kontinenten können sich beteiligen. In anderen Jahren war ihnen vielleicht die Anreise nach Deutschland zu weit oder verwehrt.
   * Zeit, die wir investiert haben, um unser Habitat zu bauen können wir nun einsetzen, um Inhalte vorzubereiten.
+
+## Einhorn? und nicht Engelsystem?
+Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
+
+## Womit arbeitet ihr? 
+Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B. 
+
+  * [Pretalx](https://pretalx.com/p/about/)
+  * [Engelsystem](https://engelsystem.de/)
+  * [Pretix](https://pretix.eu/)
+  * [Etherpad](https://yopad.eu/)
+  * [CodiMD](https://github.com/codimd/server)
+  * [Infobeamer](https://info-beamer.com/)
+  * Teile der [VOC-Toolchain](https://c3voc.de/)
+  
+  * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
+  * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
+
