@@ -1,16 +1,42 @@
 # FAQ
 
-## Für wen ist die r3s?
+## Für wen ist die "r3s"?
 Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen Remote Chaos Experience (rc3) verbinden wollen.
+
+## warum überhaupt "r3s"?
+r3s ist unsere Abkürzung für "RheinRuhrRemoteStage". Andere behaupten es hiesse "Rhein-Ruhr-Rur-Stage". Auf jeden Fall ist "r3s" für den Domainnamen einfacher zu merken.
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 * Mach mit bei unserem [Call for Participation/People/Ideas](https://pretalx.r3s.nrw/r3s/)
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
-* Komm zu unseren Treffen, Details hierzu folgen. 
+* Komm zu unseren Treffen
 
 ## Ich will mithelfen
 Gern! Wir brauchen viele Helfer, die die Bühne betreiben und im Vorfeld das Programm organisieren. Wir haben regelmäßige Online-Meetings und haben vor Ort Einhornschichten zu vergeben.
+
+## Wie arbeitet ihr zusammen / wo bereitet ihr vor?
+ * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net] auf dem Server von freifunk.net
+ * vieles läuft per Telegram
+ * ein paar Mailverteiler gibt es auch
+ * Kommunikation per (RocketChat)[http://rocket.events.ccc.de] geht auch, ist aber nicht unser primäres internes Medium
+ * IRC, Mastodon, Signal, Twitter haben einige im Team
+
+## Womit arbeitet ihr? 
+Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B. 
+  * [Pretalx](https://pretalx.com/p/about/)
+  * [Engelsystem](https://engelsystem.de/)
+  * [Pretix](https://pretix.eu/) (noch in Diskussion)
+  * [Etherpad](https://yopad.eu/)
+  * [CodiMD](https://github.com/codimd/server)
+  * [Infobeamer](https://info-beamer.com/)
+  * Teile der [VOC-Toolchain](https://c3voc.de/)
+  
+  * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
+  * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
+
+## Wie erreiche ich Euch per E-Mail?
+Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw]
 
 ## Einhorn? und nicht Engelsystem?
 Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
