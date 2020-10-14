@@ -1,15 +1,16 @@
 # r3s auf dem rC3: Call for Participation/People/Ideas 
 Die Remote-Rhein-Ruhr-Stage als professionelle Bühne für alle bietet physikalischen Raum auf dem virtuellen Congress für Menschen, Projekte, Gruppen und Communities.
-In diesem Jahr wird es keinen Congress geben, wie wir ihn aus den letzten Jahren kannten. Stattdessen wird es eine verteilte Veranstaltung geben, mit vielen Möglichkeiten, remote daran teilzunehmen.
+In diesem Jahr wird es keinen Congress geben, wie wir ihn aus den letzten Jahren kannten. Stattdessen wird es diesmal eine verteilte Veranstaltung, mit vielen Möglichkeiten, remote dabei zu sein.
 
-Und Teilnahme ist hier das Stichwort der Stunde. Um die Tage zwischen Weihnachten und Neujahr spannend auszufüllen suchen wir eure Ideen!
+Teilnahme ist hier das Stichwort der Stunde!  
+Um die Tage zwischen Weihnachten und Neujahr spannend auszufüllen: Wir suchen eure Ideen!
 Lasst uns verrückte Dinge tun, mit weniger Holz und B1, dafür mit mehr Cyberspace. 
 
-Denkbar sind zum einen klassische Vorträge für welche wir euch das entsprechende Equipment bereit stellen, über Diskussionsrunden oder Panels bish hin zu völlig neuen Formaten z.B. in Form von Workshops, bei denen die Teilnehmer sogar zu Hause parallel mitmachen können.
+Denkbar sind zum einen klassische Vorträge, für welche wir euch das entsprechende Equipment bereit stellen, über Diskussionsrunden oder Panels, bis hin zu völlig neuen Formaten z.B. in Form von Workshops, bei denen die Teilnehmer sogar zu Hause parallel mitmachen können. Oder ihr bastelt und lötet im Stream für die Armchair-Hacker. 
 
 ### Was wir bieten
-- **Bühne:** Wir planen eine reale Bühne ohne Publikum, mit professionellem Equipment und tatkräftiger Unterstützung zum Streamen anzubieten. (Falls ihr nicht vor Ort sein könnt, könnt ihr ggf. auch Beratung und Tipps für ein Streaming Setup von zu Hause bekommen, damit ihr auch Talks von zu Hause aus aufnehmen oder geben könnt.)
-- **Workshop Area:** Wir möchten eine Workshop Area gestalten, bei der Menschen von remote euch zusehen. Dazu bieten wir einen Workshoptisch der auch in Großaufnahme "von oben" gefilmt wird. Je nachdem was ihr plant können Zuschauer von zu Hause aus parallel mit euch an einem Projekt mitarbeiten.
+- **Bühne:** Wir planen eine reale Bühne ohne Publikum, mit professionellem Equipment und tatkräftiger Unterstützung zum Streamen anzubieten. 
+- **Workshop Area:** Wir möchten eine Workshop Area gestalten, bei der Menschen von remote euch zusehen. Dazu bieten wir einen Workshoptisch der auch in Großaufnahme "von oben" gefilmt wird. Je nachdem was ihr plant, können Zuschauer von zu Hause aus parallel mit euch an einem Projekt mitarbeiten und z.B. per BigBlueButton mit dabei sein. 
 - **Podium:** Wir bieten eine Plattform, um Diskussionsrunden und Panels remote durchzuführen.
 
 ### Denkanstöße für potentielle Beiträge, last eurer Kreativität freien Lauf:
