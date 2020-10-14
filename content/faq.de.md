@@ -1,10 +1,10 @@
 # FAQ
 
 ## Für wen ist die r3s?
-Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen Remote Chaos Experience (rC3) verbinden wollen.
+Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen [Remote Chaos Experience (rC3)](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/) verbinden wollen.
 
 ## Warum überhaupt r3s?
-r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Andere behaupten es hiesse „Rhein-Ruhr-Rur-Stage“. Auf jeden Fall ist r3s als Domainname einfacher zu merken.
+r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Andere behaupten, es hiesse „Rhein-Ruhr-Rur-Stage“. In beiden Fällen ist r3s als Domainname einfacher zu merken.
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
@@ -32,15 +32,15 @@ Durch die Corona-Auflagen sind große Ansammlungen untersagt.
 ## Wo steht die r3s? Warum gerade Monheim?
 Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zu den Freifunkenden vom „Neanderfunk“
 
-* die Volkshochschule Monheim hat eine geräumige Aula in der sich „Durchzug“ lüften lässt. 
+* die Volkshochschule Monheim hat eine geräumige Aula in der sich Durchzug lüften lässt. 
 * Im Gebäude werden auch derzeit unter Coronaauflagen Kurse abgehalten; es besteht also ein etabliertes Konzept (welches wir selbstständlich anpassen)
-* Die VHS ist über die Weihnachtsfeiertage nicht belegt und wir können uns mit rund einem Dutzend Leuten dort sehr „luftig“ verteilen und  mittels der Fluchtwege einen begegnungsfreien ReferentInnen-Weg ermöglichen.
+* Die VHS ist über die Weihnachtsfeiertage nicht belegt und wir können uns mit rund einem Dutzend Leuten dort sehr luftig verteilen und  mittels der Fluchtwege einen begegnungsfreien ReferentInnen-Weg ermöglichen.
 * Das Sojus-Team unterstützt uns vor Ort nicht nur mit Leuten, sondern auch mit Veranstaltungsmaterial.
 * Monheim ist keine Großstadt, die Prognose für „Corona-Lage“ ist daher tendenziell besser.
-* Die Lage in einer Hochhaussiedlung der 1970er sichert preisgünstige Nahversorgung mit halbwegs entspannten Öffnungszeiten. Das Ambiente des Umfelds fühlt sich -die Älteren werden sich erinnern- ein wenig nach „Eidelstädter Bürgerhaus“ an. 
+* Die Lage in einer Hochhaussiedlung der 1970er sichert preisgünstige Nahversorgung mit halbwegs entspannten Öffnungszeiten. Das Ambiente des Umfelds fühlt sich -die Älteren werden sich erinnern- ein wenig nach [Eidelstädter Bürgerhaus](https://www.hamburg.de/kulturzentren/13752216/eidelstedter-buergerhaus/) an. 
 
 ## Wo ist das und wie soll ich da hinkommen?
-[Monheim](https://de.wikipedia.org/wiki/Monheim_am_Rhein) ist eine Stadt von 40k Meschen und liegt rechtsrheinisch zwischen Köln und Düsseldorf.
+[Monheim](https://de.wikipedia.org/wiki/Monheim_am_Rhein) ist eine Stadt von 40k Menschen und liegt rechtsrheinisch zwischen Köln und Düsseldorf.
 [Anfahrtsplan](/anfahrt)
 
 * Wir werden uns auf die eine oder andere Weise darum kümmern, dass es für Deinen Talk nicht an den letzten Kilometern scheitert. 
@@ -66,7 +66,7 @@ Auch für das r3s-Orgateam ist das in gewisser Weise #Neuland. Neben den technis
 Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
 
 ## Womit arbeitet ihr? 
-Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B. 
+Wir nutzen die im Chaos-Umfeld bewährte Toolchain 
 
   * [Pretalx](https://pretalx.com/p/about/)
   * [Engelsystem](https://engelsystem.de/)
@@ -76,6 +76,8 @@ Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B.
   * [Infobeamer](https://info-beamer.com/)
   * Teile der [VOC-Toolchain](https://c3voc.de/)
   
+  Darüberüber hinaus:
+    
   * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
   * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
 
