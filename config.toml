@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/images/Rakete4-white-on-nothing.png"
   description = "Remote Rhein Ruhr Stage http://r3s.nrw zum rC3"
   facebook = ""
   twitter = "https://twitter.com/RuhrStage"
