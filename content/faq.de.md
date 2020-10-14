@@ -1,10 +1,10 @@
 # FAQ
 
-## Für wen ist die "r3s"?
+## Für wen ist die r3s?
 Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen Remote Chaos Experience (rc3) verbinden wollen.
 
-## warum überhaupt "r3s"?
-r3s ist unsere Abkürzung für "RheinRuhrRemoteStage". Andere behaupten es hiesse "Rhein-Ruhr-Rur-Stage". Auf jeden Fall ist "r3s" für den Domainnamen einfacher zu merken.
+## Warum überhaupt r3s?
+r3s ist unsere Abkürzung für „RheinRuhrRemoteStage“. Andere behaupten es hiesse „Rhein-Ruhr-Rur-Stage“. Auf jeden Fall ist r3s für den Domainnamen einfacher zu merken.
 
 ## Wie kann ich mitmachen?
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
@@ -53,17 +53,17 @@ Durch die Corona-Auflagen sind große Ansammlungen untersagt.
 Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wollen ihn mindestens so cool gestalten wie Präsenzcongresse.
 
 ## Ich möchte nicht mit Bild ins Netz
-Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur "Hände+Folien" ist möglich. 
+Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
 
 ## Warum gerade Monheim?
-Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zwischen den Freifunkenden vom "Neanderfunk"
+Mit dem [Sojus7](https://www.sojus.de) bestanden bereits Kontakte zwischen den Freifunkenden vom „Neanderfunk“
 
-* die Volkshochschule Monheim hat eine geräumige Aula in der sich "Durchzug" lüften lässt. 
+* die Volkshochschule Monheim hat eine geräumige Aula in der sich „Durchzug“ lüften lässt. 
 * Im Gebäude werden auch derzeit unter Coronaauflagen Kurse abgehalten; es besteht also ein etabliertes Konzept (welches wir selbstständlich anpassen)
-* Die VHS ist über die Weihnachtsfeiertage nicht belegt und wir können uns mit rund einem Dutzend Leuten dort sehr "luftig" verteilen und  mittels der Fluchtwege einen "begegnungsfreien" ReferentInnen-Weg ermöglichen.
+* Die VHS ist über die Weihnachtsfeiertage nicht belegt und wir können uns mit rund einem Dutzend Leuten dort sehr „luftig“ verteilen und  mittels der Fluchtwege einen begegnungsfreien ReferentInnen-Weg ermöglichen.
 * Das Sojus-Team unterstützt uns vor Ort nicht nur mit Leuten, sondern auch mit Veranstaltungsmaterial.
-* Monheim ist keine Großstadt, die Prognose für "Corona-Lage" ist daher tendenziell besser.
-* Die Lage in einer Hochhaussiedlung der 1970er sichert preisgünstige Nahversorgung mit halbwegs entspannten Öffnungszeiten. Das Ambiente des Umfelds fühlt sich -die Älteren werden sich erinnern- ein wenig nach "Eidelstädter Bürgerhaus" an. 
+* Monheim ist keine Großstadt, die Prognose für „Corona-Lage“ ist daher tendenziell besser.
+* Die Lage in einer Hochhaussiedlung der 1970er sichert preisgünstige Nahversorgung mit halbwegs entspannten Öffnungszeiten. Das Ambiente des Umfelds fühlt sich -die Älteren werden sich erinnern- ein wenig nach „Eidelstädter Bürgerhaus“ an. 
 
 ## Wo ist das und wie soll ich da hinkommen?
 [Monheim](https://de.wikipedia.org/wiki/Monheim_am_Rhein) ist eine Stadt von 40k Meschen und liegt rechtsrheinisch zwischen Köln und Düsseldorf.
