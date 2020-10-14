@@ -11,7 +11,15 @@
  
  
  test:
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-<br/><small><a href="https://www.openstreetmap.org/#map=17/46.23438/6.05463">View Larger Map</a></small>
-
+<iframe width="425" height="350"
+        src="https://www.openstreetmap.org/export/embed.html?
+        bbox=3.1528186798095708%2C42.2577141531011%2C3.1886529922485356%2C42.27241862881183&amp;
+        layer=mapnik"
+        style="border: 1px solid black">
+</iframe>
+<br/>
+<small>
+  <a href="https://www.openstreetmap.org/#map=16/42.2651/3.1707">
+    View Larger Map
+  </a>
+</small>
