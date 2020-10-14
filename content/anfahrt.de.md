@@ -9,17 +9,9 @@
  * Taxi: [TSLM](http://www.tslm.de/)
  * Shuttlemöglichkeit: Wir hoffen auf etwas mit großen Akkus
  
+ {{< openstreetmap mapName="510558:2kiiY8BkdiBCYtgjJOfRHF8tBEA" >}}
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/vhs-monheimrhein_510558?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/vhs-monheimrhein_510558">See full screen</a></p>
  
-# test:
-<iframe width="425" height="350"
-        src="https://www.openstreetmap.org/export/embed.html?
-        bbox=3.1528186798095708%2C42.2577141531011%2C3.1886529922485356%2C42.27241862881183&amp;
-        layer=mapnik"
-        style="border: 1px solid black">
-</iframe>
-<br/>
-<small>
-  <a href="https://www.openstreetmap.org/#map=16/42.2651/3.1707">
-    View Larger Map
-  </a>
-</small>
+http://umap.openstreetmap.fr/en/map/anonymous-edit/510558:2kiiY8BkdiBCYtgjJOfRHF8tBEA
+
