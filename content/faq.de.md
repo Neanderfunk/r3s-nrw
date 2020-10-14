@@ -79,6 +79,6 @@ Wir nutzen zum einen die im Chaos-Umfeld bewährte Toolchain aus z.B.
   * Das Mailsystem läuft auf [Mailcow](https://mailcow.email/). 
   * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
 
-## can i have an english translation ##
+## Can I have an english translation? ##
 
 We are working on it, please stand by!
