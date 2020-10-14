@@ -10,11 +10,9 @@ r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Andere behaupten es hi
 Du kannst auf viele Arten mithelfen. Hier ein paar Ideen, was du machen kannst
 * Mach mit bei unserem [Call for Participation/People/Ideas](https://pretalx.r3s.nrw/r3s/)
 * Sammel Ideen, wie du dich als alleine oder mit Freunden als Assembly am rC3 beteiligen kannst. 
-* Komm zu unseren Treffen
-
-## Ich will mithelfen
-Gern! Wir brauchen viele Helfer, die die Bühne betreiben und im Vorfeld das Programm organisieren. Wir haben regelmäßige Online-Meetings und haben vor Ort Einhornschichten zu vergeben.
-Unser Einhornsystem findet ihr hier: https://einhorn.r3s.nrw
+* brauchen viele Helfende, sowohl vor Ort in Monheim, als auch für Dinge, die remote getan werden können. Unser Einhornsystem findet ihr hier: https://einhorn.r3s.nrw   
+  
+  **komm zu unseren Treffen!**
 
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
