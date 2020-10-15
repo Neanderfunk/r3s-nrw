@@ -25,7 +25,7 @@ Durch die Corona-Auflagen sind große Ansammlungen untersagt.
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
  * vieles läuft diese [Telegram-Gruppe](https://t.me/RemoteRheinRuhrStage)
- * ein paar Mailverteiler gibt es auch, schreibe uns an. Unsere E-Mail-Adresse ist [orga@r3c.nrw](mailto:orga@r3c.nrw)
+ * ein paar Mailverteiler gibt es auch, schreibe uns an. Unsere E-Mail-Adresse ist [orga@r3s.nrw](mailto:orga@r3s.nrw)
  * Kommunikation per [RocketChat](http://rocket.events.ccc.de) geht auch, ist aber nicht unser primäres internes Medium
  * IRC, Mastodon, Signal, Twitter haben einige im Team
 
