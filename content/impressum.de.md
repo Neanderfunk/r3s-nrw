@@ -1,5 +1,5 @@
 # Impressum
-Der "RemoteRheinRuhrStage-2020" ist ein Projekt des [Förderverein Freifunk im Neanderland e.V.](https://www.neanderfunk.de)
+Die "RemoteRheinRuhrStage-2020" ist ein Projekt des [Förderverein Freifunk im Neanderland e.V.](https://www.neanderfunk.de)
 
 ## Angaben gemäß § 5 TMG:
 
