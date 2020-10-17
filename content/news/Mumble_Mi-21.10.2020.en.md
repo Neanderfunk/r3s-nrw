@@ -4,7 +4,7 @@ date: 2020-10-14T21:23:23+02:00
 language: en
 ---
 
-next organizational mubmel will be -as usual- take place on  
+next organizational mubmle will be -as usual- held on
 [mumble.freifunk.net](https://mumble.freifunk.net/) 
 in channel "/communities/r3s"
 
