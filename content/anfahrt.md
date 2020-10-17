@@ -9,4 +9,4 @@
  * Taxi: [TSLM] (http://www.tslm.de/)
  * Shuttle possibility: We hope for something with large batteries
  
- {{<openstreetmap mapName = "vhs-monheimrhein_510558" scale = "16">}}
+ {{< openstreetmap mapName="vhs-monheimrhein_510558" scale="16" >}}
