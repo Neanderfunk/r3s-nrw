@@ -1,5 +1,5 @@
 # r3s auf dem rC3: Call for Participation/People/Ideas 
-Die Remote-Rhein-Ruhr-Stage als professionelle Bühne für alle bietet physikalischen Raum auf dem virtuellen Congress für Menschen, Projekte, Gruppen und Communities.
+Die Remote-Rhein-Ruhr-Stage als Bühne für alle bietet physikalischen Raum auf dem virtuellen Congress für Menschen, Projekte, Gruppen und Communities.
 In diesem Jahr wird es keinen Congress geben, wie wir ihn aus den letzten Jahren kannten. Stattdessen wird es diesmal eine verteilte Veranstaltung, mit vielen Möglichkeiten, remote dabei zu sein.
 
 Teilnahme ist hier das Stichwort der Stunde!  
@@ -31,6 +31,4 @@ Denkbar sind zum einen klassische Vorträge, für welche wir euch das entspreche
 - Wenn ihr uns bei der Organisation helfen möchtet: [hier zum Einhornsystem](https://einhorn.r3s.nrw).
 - Bei den wöchentlichen Mumble-Terminen (siehe news) sprechen wir auch über Dinge, die nicht ins obige Raster passen.
 
-
-**Viele Grüße
-Das r3s Orgateam**
+**Viele Grüße vom [r3s Orgateam](mailto:orga@r3s.nrw)**
