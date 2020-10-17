@@ -14,4 +14,4 @@ Unser Ziel ist es mit Eurer Unterstützung auf der r3s ein Programm zu übertrag
 
 Also, ran an die Tasten und her mit Euren Ideen, Projekten, Themen. Macht mit und tut das wofür ihr einen virtuellen Congress immer schon mal nutzen wolltet. Denn es kann, muss aber nicht immer ‚nur‘ Technik sein. 
 
-Wir freuens uns auf [Eure Einreichungen](/cfp), die gememeinsame Vorbereitung und die Produktion. 
+Wir freuens uns auf [Eure Einreichungen](/cfp), die gemeinsame Vorbereitung und die Produktion. 
