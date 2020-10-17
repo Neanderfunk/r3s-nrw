@@ -1,46 +1,39 @@
-# r3s on the rC3: Call for Participation/People/Ideas 
-The Remote-Rhein-Ruhr-Stage is a professional stage for everyone that offers physical space at the 
-virtual Congress for people, projects, groups and communities. This year there will be no congress 
-as we have known it in the past years. Instead, there will be a distributed event, with many 
-opportunities to participate remotely.
+# r3s on the rC3: Call for Participation / People / Ideas
 
-And participation is the keyword. To fill the days between Christmas and New Year with excitement 
-we are looking for your ideas! Let's do crazy things, with less wood and B1, but with more cyberspace.
+The Remote-Rhein-Ruhr-Stage offers a podium for everyone physical space on the virtual congress for people, projects, groups and communities.
+This year there will be no congress as we have known from previous years. Instead, this time it will be a distributed event, with many opportunities to attend remotely.
 
-Conceivable are on the one hand classic lectures for which we provide you with the appropriate 
-equipment, but also discussion rounds or panels up to completely new formats, e.g. in the form of 
-workshops, in which the participants can even take part at home.
+Participation is the keyword of the hour!
+To fill the exciting days between Christmas and New Year: We are looking for your ideas!
+Let's do crazy things with less wood and B1, but with more cyberspace.
 
-## What we offer
-* __Stage:__ We plan to offer a real stage without audience, with professional equipment and active 
-  support for streaming. (If you can't be on site, you may also get advice and tips for a streaming setup 
-  from home, so you can record or give talks from home).
-* __Workshop Area:__ We want to create a workshop area where people watch you remotely. For this purpose 
-  we offer a workshop table which is also filmed in close-up "from above". Depending on your plans, viewers 
-  can watch from home and work on a project with you together.
-* __Podium:__ We offer a platform for remote discussion rounds and panels.
+Conceivable are classic presentations, for which we provide you with the appropriate equipment, through discussion groups or panels, up to completely new formats, e.g. in the form of workshops in which the participants can even take part in parallel at home. Or you tinker and solder in the stream for the armchair hackers.
 
-## Thoughts on formats. Be creative!
-* What formats do you know for conducting virtual/remote workshops with others?
-* What can you do remotely that you could not do at the congress?
-* Do you know any online games where you can join in or just watch?
-* Do you have ideas like "Yoga workshop - exercise together" or "Bob Ross - painting together" that can be 
-  implemented or even extended?
-* What have you always wanted to use a virtual congress for?
+### What we offer
 
-The following information about your proposal or idea is helpful:
+- ** Stage: ** We are planning to offer a real stage without an audience, with professional equipment and active support for streaming.
+- ** Workshop Area: ** We would like to create a workshop area where people from remotely watch you. We also offer a workshop table which is also filmed in close-up "from above". Depending on what you are planning, viewers can work with you on a project from home and e.g. Be there with the BigBlueButton.
+- ** Podium: ** We offer a platform to hold discussion rounds and panels remotely.
 
-* What is your approximate idea? (Rough concept, objectives, number of participants, setup, preparation, 
-  participants, etc.)
-* What technology is required?
-* What are the requirements for participants?
-* What does it cost?
+### Food for thought for potential contributions, let your creativity run free:
 
-At the moment we are mainly looking for ideas for formats or possibilities to move in the digital space. 
-For concrete suggestions such as talks, workshops, parties, idea implementation, there is the possibility to 
-register and submit them in our [pretalx](https://pretalx.r3s.nrw/r3s/). If you would like to help us with the organisation, network 
-your assembly with us or simply share information, you will soon find our organising meeting dates on our 
-[website]( https://r3s.nrw).
+- Which formats do you know to carry out virtual / remote workshops with others?
+- What can you do remotely that you couldn't do at the congress?
+- Do you know shared online games that you can take part in or just watch?
+- Do you have ideas like “Yoga workshop - do sports together” or “Bob Ross - paint together” or could they be expanded?
+- What have you always wanted to use a virtual congress for?
 
-Kind regards  
-the r3s organisation comitee.
+## The following information about your suggestion or idea is helpful:
+
+- How do you imagine that? (Rough concept, goal setting, number of participants, setup, preparation, implementation ...)
+- What technology is required?
+- What requirements must be met for participants?
+- How much does it cost?
+
+# What's next?
+
+- For specific suggestions such as talks, workshops, parties, implementation of ideas: [Click here for the pretalx] (https://pretalx.r3s.nrw/r3s/)
+- If you would like to help us with the organization: [here to the unicorn system] (https://einhorn.r3s.nrw).
+- At the weekly Mumble appointments (see news) we also talk about things that don't fit into the above grid.
+
+** Greetings from the [r3s Orgateam] (mailto: orga@r3s.nrw) **
