@@ -11,5 +11,4 @@
  
  {{< openstreetmap mapName="vhs-monheimrhein_510558" scale="16" >}}
  
-http://umap.openstreetmap.fr/en/map/anonymous-edit/510558:2kiiY8BkdiBCYtgjJOfRHF8tBEA
 
