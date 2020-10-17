@@ -8,12 +8,16 @@ SectionPagesMenu = "main"
 enableRobotsTXT = true
 
 [languages]
+
+  [languages.en]
+    title = "Remote Rhein Ruhr"
+    weight = 1
   [languages.de]
     title = "Remote Rhein Ruhr"
     weight = 2
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
