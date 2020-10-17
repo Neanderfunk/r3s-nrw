@@ -65,8 +65,6 @@ For the r3s organization team, too, this is #new territory in a way. In addition
 ## unicorn? and not angel system?
 The reasons for choosing the name [unicorn system] (https://einhorn.r3s.nrw/) are unclear. We are happy with the name.
 
-926/5000
-Zeichenbeschränkung: 5000
 ## What do you work with?
 We use the toolchain that has proven itself in a chaos environment
 
