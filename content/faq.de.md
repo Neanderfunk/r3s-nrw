@@ -83,6 +83,3 @@ Wir nutzen die im Chaos-Umfeld bewährte Toolchain
   
 ## Auf der Webseite ist was falsch!
 Schreibe uns per [E-Mail](mailto:orga@r3s.nrw) oder lege ein Issue [im Github-Repository](https://github.com/Neanderfunk/r3s-nrw) an. Wenn Du z.B. bei Übersetzungen in andere Sprachen helfen möchtest, dann freuen wir uns über PullRequests. 
-
-## Can I have an english translation? ##
-We are working on it, please stand by!
