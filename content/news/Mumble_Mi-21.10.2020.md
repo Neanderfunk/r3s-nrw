@@ -1,6 +1,7 @@
 ---
 title: "Mumble-Treffen: Mi 21.10.2020 20h"
 date: 2020-10-14T21:23:23+02:00
+language: de
 ---
 
 Unser nächstes Orga-Treffen findet wie gewohnt auf 
