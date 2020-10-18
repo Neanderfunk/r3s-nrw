@@ -80,6 +80,18 @@ enableRobotsTXT = true
     url = "/anfahrt"
 
   [[languages.en.menu.main]]
+    name = "unicorns"
+    title = "unicorn"
+    weight = 5
+    url = " https://einhorn.r3s.nrw/"
+
+  [[languages.de.menu.main]]
+    name = "Einhörner"
+    title = "Einhörner"
+    weight = 5
+    url = " https://einhorn.r3s.nrw/"
+
+  [[languages.en.menu.main]]
     name = "Impressum"
     weight = 6
     url = "/impressum/"
