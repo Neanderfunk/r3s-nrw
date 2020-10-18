@@ -11,9 +11,9 @@ Conceivable are classic presentations, for which we provide you with the appropr
 
 ### What we offer
 
-- ** Stage: ** We are planning to offer a real stage without an audience, with professional equipment and active support for streaming.
-- ** Workshop Area: ** We would like to create a workshop area where people from remotely watch you. We also offer a workshop table which is also filmed in close-up "from above". Depending on what you are planning, viewers can work with you on a project from home and e.g. Be there with the BigBlueButton.
-- ** Podium: ** We offer a platform to hold discussion rounds and panels remotely.
+- **Stage:** We are planning to offer a real stage without an audience, with professional equipment and active support for streaming.
+- **Workshop Area:** We would like to create a workshop area where people from remotely watch you. We also offer a workshop table which is also filmed in close-up "from above". Depending on what you are planning, viewers can work with you on a project from home and e.g. Be there with the BigBlueButton.
+- **Podium:** We offer a platform to hold discussion rounds and panels remotely.
 
 ### Food for thought for potential contributions, let your creativity run free:
 
