@@ -36,4 +36,4 @@ Conceivable are classic presentations, for which we provide you with the appropr
 - If you would like to help us with the organization: [here to the unicorn system] (https://einhorn.r3s.nrw).
 - At the weekly Mumble appointments (see news) we also talk about things that don't fit into the above grid.
 
-** Greetings from the [r3s Orgateam] (mailto: orga@r3s.nrw) **
+**Greetings from the [r3s Orgateam] (mailto: orga@r3s.nrw)**
