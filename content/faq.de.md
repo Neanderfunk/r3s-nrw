@@ -52,6 +52,12 @@ Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wo
 ## Ich möchte nicht mit Bild ins Netz
 Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
 
+## Kann ich den Talk auch remote halten oder vorab aufzeichnen?
+Vorangegangene Chaos-Events 2020 haben gezeigt, dass Remote-Speaker sowohl technisch, wie auch organisatorisch aufwändig sind und die möglichen Probleme auch bei den Vortragenden vielfältig sind, weil z.B. die Bildregie zwischen Folien und Kamera im derzeit üblichen Setup während des Vortrags von der referierenden Person im Multitasking erfolgen muss. Zudem gibt es dann beim Übergang in die Q&A-Session faktisch eine Umbaupause, bei der zum Beispiel hinsichtlich der lokalen Audioquellen Dinge scheitern können.  
+Lange Rede, kurzer Sinn: Wir sind uns noch unschlüssig, ob wir remote-speaker handeln können und verweisen in diesem Kontext lieber an das große VOC-Setup, das mehr und erfahrenere Menschen hat.  
+* Eine Option wäre, Talks als „Live-on-Tape“ vorzubreiten und lediglich den Q&A-Part live per Jitsi/BigBlueButton durchzuführen. Eine Entscheidung darüber steht noch aus, da wir noch nicht wissen, wann unser Setup steht. 
+* Alternativ kannst Du Deinen Talk lokal aufzeichnen und uns zur Verfügung stellen. Der Q&A-Live-Part muss dann separat betrachtet werden. 
+
 ## Wer seid ihr?
 Wir sind Menschen, die in den letzten Jahren auf dem Congress z.B. bei [OpenInfrastructureOrbit(OIO)](http://oio.social) aktiv waren, in Erfa-Kreisen in z.B. [CCCAC](https://aachen.ccc.de), [Chaospott](https://chaospott.de/) oder beim [Freifunk](http://www.freifunk.net) im [Neanderland](https://www.neanderfunk.de/) sind.
 
