@@ -58,6 +58,8 @@ Lange Rede, kurzer Sinn: Wir sind uns noch unschlüssig, ob wir remote-speaker h
 * Eine Option wäre, Talks als „Live-on-Tape“ vorzubreiten und lediglich den Q&A-Part live per Jitsi/BigBlueButton durchzuführen. Eine Entscheidung darüber steht noch aus, da wir noch nicht wissen, wann unser Setup steht. 
 * Alternativ kannst Du Deinen Talk lokal aufzeichnen und uns zur Verfügung stellen. Der Q&A-Live-Part muss dann separat betrachtet werden. 
 
+Im CfP fragen wir den Modus Deines Vortrags ab, wir ziehen aus obigen Gründen jedoch die Präsenzform vor. Betrachte bitte alles dazu als vorläufig da wir ggf. coronabedingt Dinge ändern müssen.
+
 ## Wer seid ihr?
 Wir sind Menschen, die in den letzten Jahren auf dem Congress z.B. bei [OpenInfrastructureOrbit(OIO)](http://oio.social) aktiv waren, in Erfa-Kreisen in z.B. [CCCAC](https://aachen.ccc.de), [Chaospott](https://chaospott.de/) oder beim [Freifunk](http://www.freifunk.net) im [Neanderland](https://www.neanderfunk.de/) sind.
 
