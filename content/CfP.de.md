@@ -28,7 +28,7 @@ Denkbar sind neben klassischen Vorträgen, Diskussionsrunden odere Panels natür
 - Wollt Ihr live auf der Bühne sein oder von einer anderen location aus übertragen?
 
 # Wie geht's weiter?
-- Konkrete Vorschläge wie Talks, Workshops, Parties, Ideenumsetzung, usw bitte einreichen: [Hier geht's zum pretalx](https://pretalx.r3s.nrw/r3s/)   
+- Konkrete Vorschläge wie Talks, Workshops, Parties, Ideenumsetzung, usw. bitte einreichen. [Hier geht's zum pretalx](https://pretalx.r3s.nrw/r3s/)   
 - Wenn ihr uns bei der Organisation helfen möchtet: [hier zum Einhornsystem](https://einhorn.r3s.nrw).
 - Bei den wöchentlichen Mumble-Terminen (siehe news) sprechen wir auch über Themen, die nicht ins obige Raster passen.
 
