@@ -62,6 +62,24 @@ For the r3s organization team, too, this is #new territory in a way. In addition
   * People from other countries / continents can take part. In other years the journey to Germany may have been too far for them or even denied them.
   * Time that we have invested in building our habitat can now be used to prepare content.
 
+## And what about Covid-19?
+Of course, we will be happy if the situation should surprisingly relax by December and we might even be able to allow a little audience in the hall. At the moment, however, we are not expecting it and are more likely to expect the opposite.
+To take up the two points of another FAQ answer:
+* The VHS-Monheim (adult education center) has a spacious auditorium in which a draft can be ventilated by lots of windows.
+* Courses are currently being held in the building subject to corona requirements; So there is an established concept (which we adapt of course)
+* The VHS is not occupied over the Christmas holidays and we can spread out very airily with around a dozen people and use the escape routes to enable the speakers to walk without encountering them.
+
+### Furthermore:
+* The ceiling height and room size of the auditorium allow us to maintain a permanent spatial separation of 5+ meters between teams if necessary.
+* We can outsource individual teams to side rooms
+* A low-encounter production / workflow is the planning goal
+* A token system to strictly limit the number of people below the level approved by the office is being planned. Presumably they will be cloak badges with numbers that will be returned when you leave. If there are no more tokens at the entrance, no more people will come in. And when people are actively sought inside who have to get out in exchange.
+* At the entrance there will also be an urn system for contact tracking. Slips of paper with the legally required data are sent via urns in sealed envelopes using the 4-6 eyes principle. A two to three-stage analog process with hash stickers with check-in / check-out in the respective working groups is in planning.
+* Alcohol and other intoxicants are off-limits in the location. Simply to reduce the risk of arrogance or indifference.
+* We will not only write measures such as mask compulsory on patient paper for the office. And we are not going to cheat with any scarves or topless noseless wearing styles.
+* We will not discuss the sense or nonsense of masks, surface disinfection and other things. In case of doubt, “better safe than sorry” applies.
+* If you are of the opinion that you think it is exaggerated / not useful / overly cautious: Then the r3s is probably not the right project for you.
+
 ## unicorn? and not angel system?
 The reasons for choosing the name [unicorn system] (https://einhorn.r3s.nrw/) are unclear. We are happy with the name.
 
