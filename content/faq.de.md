@@ -62,7 +62,7 @@ Auch für das r3s-Orgateam ist das in gewisser Weise #Neuland. Neben den technis
   * Menschen aus anderen Ländern/von anderen Kontinenten können sich beteiligen. In anderen Jahren war ihnen vielleicht die Anreise nach Deutschland zu weit oder verwehrt.
   * Zeit, die wir investiert haben, um unser Habitat zu bauen können wir nun einsetzen, um Inhalte vorzubereiten.
 
-## Und was ist Corona?
+## Und was ist mit Corona?
 Natürlich werden wir uns freuen, wenn bis zum Dezember sich die Lage überraschend entspannen sollte und wir evtl. sogar ein wenig Publikum im Saal zulassen dürfen. Derzeit rechnen wir aber nicht damit und stellen uns eher auf das Gegenteil ein.   
 Um die beiden Punkte einer anderen FAQ-Antwort aufzugreifen: 
 * die Volkshochschule Monheim hat eine geräumige Aula in der sich Durchzug lüften lässt. 
