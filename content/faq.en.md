@@ -52,6 +52,14 @@ Great, just bring it on! For all of us this is the first remote congress and we 
 ## I don't want to go online with a picture
 If you want to hold a workshop / talk without your face on the net: Only “hands + slides” is possible.
 
+## Can I hold the talk remotely or record it in advance?
+Previous chaos events in 2020 have shown that remote speakers are technically as well as organizationally complex and the potential problems for the speakers are various, because e.g. the video switching between the slides and the camera in the currentl setup during the presentation must be done by the speaker in multitasking. In addition, when transitioning to the Q&A session, there is a reconfiguration process, during which things can fail, for example with regard to the local audio sources.
+To cut a long story short: We are still undecided as to whether we can handle remotele speaker and, in this context, prefer to refer to the large VOC setup, which has more in number and more experienced people.
+* One option would be to prepare talks as "live-on-tape" and only perform the Q&A part live via Jitsi / BigBlueButton. A decision is still pending as we don't know when our setup will be.
+* Alternatively, you can record your talk locally and make it available to us. The Q&A live part must then be viewed separately.
+
+In the CfP we ask about the mode of your lecture, but we prefer the presence form for the above reasons. Please consider everything as provisional as we may have to change things due to the Covid situation.
+
 ## Who are you?
 We are people who, in recent years at the Congress, e.g. at [OpenInfrastructureOrbit (OIO)] (http://oio.social) were active, in Erfa circles in e.g. [CCCAC] (https://aachen.ccc.de), [Chaospott] (https://chaospott.de/) or at [Freifunk] (http://www.freifunk.net) in [Neanderland] (https : //www.neanderfunk.de/) are.
 
