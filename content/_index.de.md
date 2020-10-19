@@ -1,7 +1,7 @@
 r3s Remote Rhein Ruhr Stage
 ===
 
-Die Remote-Rhein-Ruhr-Stage ist eine real-world Bühne in Monheim bei Düsseldorf und wird ein Teil des diesjährigen Remote-Congress rC3 sein. Mit unserem Bühnenequipment ermöglichen wir ein Livestreaming von Vorträgen, Workshops und Bastel-Sessions für alle.
+Die Remote-Rhein-Ruhr-Stage r3s in Monheim am Rhein wird eine der real-world Bühnen des diesjährigen Remote-Congress rC3 sein, von der wir live Vorträge, Workshops, Bastel-Sessions und mehr professionell streamen werden. Monheim liegt zwischen Düsseldorf und Köln und ist für alle speaker gut mit allen Verkehrsmitteln zu erreichen. 
 
 ## Corona kann uns mal!
 
