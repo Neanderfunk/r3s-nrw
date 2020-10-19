@@ -62,6 +62,24 @@ Auch für das r3s-Orgateam ist das in gewisser Weise #Neuland. Neben den technis
   * Menschen aus anderen Ländern/von anderen Kontinenten können sich beteiligen. In anderen Jahren war ihnen vielleicht die Anreise nach Deutschland zu weit oder verwehrt.
   * Zeit, die wir investiert haben, um unser Habitat zu bauen können wir nun einsetzen, um Inhalte vorzubereiten.
 
+## Und was ist Corona?
+Natürlich werden wir uns freuen, wenn bis zum Dezember sich die Lage überraschend entspannen sollte und wir evtl. sogar ein wenig Publikum im Saal zulassen dürfen. Derzeit rechnen wir aber nicht damit und stellen uns eher auf das Gegenteil ein.   
+Um die beiden Punkte einer anderen FAQ-Antwort aufzugreifen: 
+* die Volkshochschule Monheim hat eine geräumige Aula in der sich Durchzug lüften lässt. 
+* Im Gebäude werden auch derzeit unter Coronaauflagen Kurse abgehalten; es besteht also ein etabliertes Konzept (welches wir selbstständlich anpassen)
+* Die VHS ist über die Weihnachtsfeiertage nicht belegt und wir können uns mit rund einem Dutzend Leuten dort sehr luftig verteilen und  mittels der Fluchtwege einen begegnungsfreien ReferentInnen-Weg ermöglichen.
+
+### Darüber hinaus: 
+* Die Deckenhöhe und Raumgröße der Aula gestattet es uns, gegebenenfalls zwischen Teams eine permanente räumliche Trennung von 5+ Metern einzuhalten. 
+* Wir können einzelne Teams in Nebenräume auslagern
+* Ein begegungsarmer Produktions/Arbeitsablauf ist Planungsziel
+* Ein Token-System zur strikten Limitierung der Personenzahl unter das vom Amt genehmtige Maß ist in Planung. Vermutlich werden es Umhänge-Badges mit Nummern, die beim Verlassen jeweils wieder abgegeben werden. Wenn keine Token mehr am Eingang sind, kommen keine weiteren Leute rein. Und wenn dafür drinnen aktiv Leute gesucht werden, die im Austausch raus müssen. 
+* Am Eingang wird es zusätzlich ein Urnensystem für das Contact-Tracking geben. Zettel mit den gesetzlich notwendigen Daten werden im 4-6-Augenprinzip über Urne in versiegelte Umschläge verfrachtet. Ein zwei- bis dreistufiges analoges Verfahren mit Hash-Klebestickern mit Checkin/Checkout in den jeweiligen Arbeitsgruppen ist in Planung.
+* Alkohol und andere Rauschmittel sind in der Location off-limits. Einfach um das Risiko von Übermut oder Gleichgültigkeit zu vermindern. 
+* Maßnahmen wie Maskenpflicht werden wir nicht nur fürs Amt aufs geduldige Papier schreiben. Und wir werden auch nicht mit irgendwelchen Schals oder oben-ohne-nasenfrei-Trageformen schummeln.
+* Über Sinn oder Unsinn von Masken, Obeflächendesinfaktion und anderen Dingen werden wir nicht diskutieren. Im Zweifelsfall gilt „better safe than sorry“. 
+* Wenn ihr der Meinung sein solltet, dass ihr es für übertrieben/nicht sinnvoll/übervorsichtig haltet: Dann ist die r3s vermutlich nicht das richtige Projekt für Euch. 
+
 ## Einhorn? und nicht Engelsystem?
 Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
 
