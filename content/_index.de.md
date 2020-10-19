@@ -10,8 +10,8 @@ Der 37c3 findet dieses Jahr nicht in Leipzig, sondern im Cyberspace statt, denn 
 ## Ran an die Tasten – CfP!
 Wir wollen ein buntes und spannendes Programm zusammenstellen und brauchen Eure Ideen.  
 Ob klassische Vorträge, Podiumsdiskussionen, Workshops, etc. Denkt um die Ecke und lasst Eurer Kreativität freien Lauf.  
-Unser Ziel ist es mit Eurer Unterstützung auf der r3s ein Programm zu übertragen, das mindestens genauso cool und attraktiv ist, wie das der vergangenen Jahre auf dem Präsenzcongress. 
+Wir wollen mit Eurer Unterstützung auf der r3s ein Programm übertragen, das mindestens genauso cool und attraktiv ist, wie das der vergangenen Jahre auf dem Präsenzcongress. 
 
 Also, ran an die Tasten und her mit Euren Ideen, Projekten, Themen. Macht mit und tut das wofür ihr einen virtuellen Congress immer schon mal nutzen wolltet. Denn es kann, muss aber nicht immer ‚nur‘ Technik sein. 
 
-Wir freuens uns auf [Eure Einreichungen](/cfp), die gemeinsame Vorbereitung und die Produktion. 
+Wir freuen uns auf [Eure Einreichungen](/cfp), spannende gemeinsame Vorbereitung und eine erfolgreiche Produktion. 
