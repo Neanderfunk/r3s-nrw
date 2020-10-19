@@ -53,9 +53,9 @@ Super, nur her damit! Für uns alle ist das der erste Remote-Congress und wir wo
 Wenn Du Workshop/Talk halten möchtest, ohne mit dem Gesicht im Netz zu sein: Nur „Hände+Folien“ ist möglich. 
 
 ## Kann ich den Talk auch remote halten oder vorab aufzeichnen?
-Vorangegangene Chaos-Events 2020 haben gezeigt, dass Remote-Speaker sowohl technisch, wie auch organisatorisch aufwändig sind und die möglichen Probleme auch bei den Vortragenden vielfältig sind, weil z.B. die Bildregie zwischen Folien und Kamera im derzeit üblichen Setup während des Vortrags von der referierenden Person im Multitasking erfolgen muss. Zudem gibt es dann beim Übergang in die Q&A-Session faktisch eine Umbaupause, bei der zum Beispiel hinsichtlich der lokalen Audioquellen Dinge scheitern können.  
-Lange Rede, kurzer Sinn: Wir sind uns noch unschlüssig, ob wir remote-speaker handeln können und verweisen in diesem Kontext lieber an das große VOC-Setup, das mehr und erfahrenere Menschen hat.  
-* Eine Option wäre, Talks als „Live-on-Tape“ vorzubreiten und lediglich den Q&A-Part live per Jitsi/BigBlueButton durchzuführen. Eine Entscheidung darüber steht noch aus, da wir noch nicht wissen, wann unser Setup steht. 
+Vorangegangene Chaos-Events 2020 haben gezeigt, dass Remote-Speaker sowohl technisch, wie auch organisatorisch aufwändig und die möglichen Probleme auch bei den Vortragenden vielfältig sind, weil z.B. die Bildregie zwischen Folien und Kamera im derzeit üblichen Setup während des Vortrags von der referierenden Person im Multitasking erfolgen muss. Zudem gibt es dann beim Übergang in die Q&A-Session faktisch eine Umbaupause, bei der zum Beispiel hinsichtlich der lokalen Audioquellen Dinge scheitern können.  
+Lange Rede, kurzer Sinn: Wir sind uns noch unschlüssig, ob wir Talks mit remote-speaker unfallfrei hinbekommen und verweisen in diesem Kontext lieber an das große VOC-Setup, das mehr und vor allem erfahrenere Menschen hat.  
+* Eine Option wäre, Talks als „Live-on-Tape“ vorzubreiten und lediglich den Q&A-Part live per Jitsi/BigBlueButton durchzuführen. Eine Entscheidung darüber steht noch aus, da wir noch nicht wissen, wann unser Setup produktiv steht. 
 * Alternativ kannst Du Deinen Talk lokal aufzeichnen und uns zur Verfügung stellen. Der Q&A-Live-Part muss dann separat betrachtet werden. 
 
 Im CfP fragen wir den Modus Deines Vortrags ab, wir ziehen aus obigen Gründen jedoch die Präsenzform vor. Betrachte bitte alles dazu als vorläufig da wir ggf. coronabedingt Dinge ändern müssen.
@@ -86,7 +86,7 @@ Um die beiden Punkte einer anderen FAQ-Antwort aufzugreifen:
 * Alkohol und andere Rauschmittel sind in der Location off-limits. Einfach um das Risiko von Übermut oder Gleichgültigkeit zu vermindern. 
 * Maßnahmen wie Maskenpflicht werden wir nicht nur fürs Amt aufs geduldige Papier schreiben. Und wir werden auch nicht mit irgendwelchen Schals oder oben-ohne-nasenfrei-Trageformen schummeln.
 * Über Sinn oder Unsinn von Masken, Obeflächendesinfaktion und anderen Dingen werden wir nicht diskutieren. Im Zweifelsfall gilt „better safe than sorry“. 
-* Wenn ihr der Meinung sein solltet, dass ihr es für übertrieben/nicht sinnvoll/übervorsichtig haltet: Dann ist die r3s vermutlich nicht das richtige Projekt für Euch. 
+* Wenn ihr der Meinung sein solltet, dass ihr es für übertrieben/nicht sinnvoll/übervorsichtig haltet: Dann ist die r3s zumindest in der Präsenzform in Monheim vermutlich nicht das richtige für Euch. 
 
 ## Einhorn? und nicht Engelsystem?
 Die Gründe für die Wahl des Namens [Einhornsystem](https://einhorn.r3s.nrw/) sind unklar. Wir sind mit dem Namen glücklich.
