@@ -16,11 +16,9 @@ Die "RemoteRheinRuhrStage-2020" ist ein Projekt des [Förderverein Freifunk im N
   Lutz Wulfestieg, Mettmann  
   Jörg Kahm, Wülfrath  
   Stephan Plarre, Velbert  
-
  
 ## Kontakt
 E-Mail: vorstand@neanderfunk.de
-
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte
