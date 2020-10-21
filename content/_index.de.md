@@ -15,5 +15,3 @@ Wir wollen mit Eurer Unterstützung auf der r3s ein Programm übertragen, das mi
 Also, ran an die Tasten und her mit Euren Ideen, Projekten, Themen. Macht mit und tut das wofür ihr einen virtuellen Congress immer schon mal nutzen wolltet. Denn es kann, muss aber nicht immer ‚nur‘ Technik sein. 
 
 Wir freuen uns auf [Eure Einreichungen](/cfp), eine gemeinsame spannende Vorbereitungszeit und erfolgreiche Produktion. 
-
-{{< form-contact action="https://formspree.io/orga@r3s.nrw" >}}
