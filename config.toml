@@ -35,7 +35,7 @@ enableRobotsTXT = true
     name = "CfP"
     title = "CfP"
     weight = 1
-    url = "/cfp"
+    url = "/en/cfp"
 
   [[languages.de.menu.main]]
     name = "CfP"
@@ -47,7 +47,7 @@ enableRobotsTXT = true
     name = "FAQ"
     title = "faq"
     weight = 2
-    url = "/faq"
+    url = "/en/faq"
 
   [[languages.de.menu.main]]
     name = "FAQ"
@@ -59,7 +59,7 @@ enableRobotsTXT = true
     name = "About us"
     title = "About us"
     weight = 3
-    url = "/about"
+    url = "/en/about"
 
   [[languages.de.menu.main]]
     name = "Über uns"
@@ -71,7 +71,7 @@ enableRobotsTXT = true
     name = "directions"
     title = "directions"
     weight = 4
-    url = "/anfahrt"
+    url = "/en/anfahrt"
 
   [[languages.de.menu.main]]
     name = "Anfahrt"
@@ -94,7 +94,7 @@ enableRobotsTXT = true
   [[languages.en.menu.main]]
     name = "Impressum"
     weight = 6
-    url = "/impressum/"
+    url = "/en/impressum/"
 
   [[languages.de.menu.main]]
     name = "Impressum"
