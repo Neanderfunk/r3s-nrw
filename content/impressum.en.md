@@ -11,8 +11,7 @@ The "RemoteRheinRuhrStage-2020" is a project of the [Förderverein Freifunk im N
   Registergericht: Amtsgericht Wuppertal  
   Registernummer: VR 30928  
 
-## Board
-  ** Chair: **  
+### Board
   Lutz Wulfestieg, Mettmann  
   Jörg Kahm, Wülfrath  
   Stephan Plarre, Velbert  
