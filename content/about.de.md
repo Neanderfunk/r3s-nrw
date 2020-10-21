@@ -10,3 +10,8 @@ Die Anzahl der Personen im Raum wird strikt reglementiert und der Einlass kontro
 
 Das Programm wird in unserem [Pretalx](https://pretalx.r3s.nrw/r3s/) geplant und veröffentlicht. Mach mit - Du bist herzlich willkommen und wir freuen uns auf Deine Ideen! 
 Die virtuelle Teilnahme ist natürlich uneingeschränkt möglich und erfolgt im Rahmen des rC3.
+
+# Kontakt
+E-Mail: [orga@r3s.nrw](mailto:orga@r3s.nrw)
+oder per Formular
+{{< form-contact action="https://formspree.io/orga@r3s.nrw" >}}
