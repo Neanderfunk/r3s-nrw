@@ -111,4 +111,4 @@ Wir nutzen die im Chaos-Umfeld bewährte Toolchain
   * Die Videoproduktion wird nach derzeitigem Stand mittels [OBS](https://obsproject.com/) erfolgen. 
   
 ## Auf der Webseite ist was falsch!
-Schreibe uns per [E-Mail](mailto:orga@r3s.nrw) oder lege ein Issue [im Github-Repository](https://github.com/Neanderfunk/r3s-nrw) an. Wenn Du z.B. bei Übersetzungen in andere Sprachen helfen möchtest, dann freuen wir uns über PullRequests. 
+Schreibe uns per [E-Mail](mailto:orga@r3s.nrw) oder lege ein Issue [im Github-Repository](https://github.com/Neanderfunk/r3s-nrw/) an. Wenn Du z.B. bei Übersetzungen in andere Sprachen helfen möchtest, dann freuen wir uns über PullRequests. 
