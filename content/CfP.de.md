@@ -1,7 +1,9 @@
 # r3s auf dem rC3: Call for Papers (CfP) 
+TLDR: [Hier geht's zum pretalx](https://pretalx.r3s.nrw/r3s/) Einreichungsfrist: 08.11.2020 23h42.  
+
 Die Remote-Rhein-Ruhr-Stage r3s bietet im Rahmen des virtuellen Congress physikalischen Raum für Menschen, Projekte, Gruppen und Communities. Wir übertragen unter Einhaltung der aktuellen Corona-Regeln live aber ohne Publikum vor Ort und bieten somit viele Möglichkeiten remote dabei zu sein. 
 
-Teilnahme ist hier das Stichwort der Stunde!  
+Teilnahme ist hier das Stichwort der Stunde! 
 Um die Tage zwischen Weihnachten und Neujahr so spannend wie es nur geht auszufüllen brauchen wir Eure Ideen!
 Lasst uns verrückte Dinge tun, mit weniger Holz und B1, dafür mit mehr Cyberspace. Lasst Eurer Kreativität freien Lauf und folgt unserem Call for Participation/People/Ideas!
 
