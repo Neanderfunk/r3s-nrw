@@ -68,8 +68,8 @@ enableRobotsTXT = true
     url = "/about"
 
   [[languages.en.menu.main]]
-    name = "Anfahrt"
-    title = "Anfahrt"
+    name = "directions"
+    title = "directions"
     weight = 4
     url = "/anfahrt"
 
