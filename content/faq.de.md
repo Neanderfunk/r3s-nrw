@@ -20,7 +20,7 @@ Durch die Corona-Auflagen sind große Ansammlungen untersagt und wir werden alle
 * Falls Publikum vor Ort sein kann, werden wir dies entsprechend vorab bekannt geben und die Anzahl durch Ticketvergabe steuern.
 * Einhörner sind kein Publikum, benötigen aber eine Schicht im [Einhornsystem](https://einhorn.r3s.nrw/) um vor Ort dabei sein zu können.
 
-  **Spontane Besuche sind leider vollkommen unmöglich und wir können leider keine Ausnahmen machen.**
+  **Spontane Besuche sind leider vollkommen unmöglich und wir können keine Ausnahmen machen.**
 
 ## Wie arbeitet ihr zusammen und wo bereitet ihr euch vor?
  * Wir treffen uns regelmäßig per [mumble](https://mumble.freifunk.net) auf dem Server von freifunk.net
