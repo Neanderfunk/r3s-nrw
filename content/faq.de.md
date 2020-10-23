@@ -4,7 +4,7 @@
 Die r3s richtet sich an alle Gruppen, Institutionen und Individuen die sich live oder auch per time-shift mit dem diesjährigen [Remote Chaos Experience (rC3)](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/) verbinden wollen.
 
 ## Warum überhaupt r3s?
-r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Es geht auch mit Bindestrich: Rhein-Ruhr-Ruhr-Stage. In beiden Fällen ist r3s als Domainname einfacher zu merken.
+r3s ist unsere Abkürzung für "Remote Rhein Ruhr Stage". Es geht auch mit Bindestrich: Rhein-Ruhr-Rur-Stage. In beiden Fällen ist r3s als Domainname einfacher zu merken.
 
 ## Wie kann ich mitmachen?
 Wunderbarer Wahnsinn kennt keine Grenzen, die Pandemie setzt allerdings welche. Hier sind ein paar Ideen und Anregungen ohne Anspruch auf Vollständigkeit:
