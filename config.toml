@@ -1,6 +1,6 @@
 baseURL = "https://r3s.nrw/"
 languageCode = "en"
-title = "Remote Rhein Ruhr"
+title = "Remote Rhein Ruhr Stage - r3s"
 theme = ["osm","ananke"]
 
 DefaultContentLanguage = "de"
