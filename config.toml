@@ -5,7 +5,7 @@ theme = ["osm","ananke"]
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [languages]
 
