@@ -8,8 +8,6 @@ Unser nächstes Orga-Treffen findet wie gewohnt auf
 [mumble.freifunk.net](https://mumble.freifunk.net/)
 im Kanal "/communities/r3s" statt
 
-Themen (unter anderem) 
+Wir sprechen über alle aktuell anstehenden Themen im Rahmen der zwei möglichen Bühnen (Klassisch und "Maker-Area").
 
-* Einhörner
-* Art&Play?
-* temporäre Holzbauten
+Wer macht was bis wann?
