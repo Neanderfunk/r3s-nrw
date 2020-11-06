@@ -1,4 +1,5 @@
 # r3s on the rC3: Call for Participation / People / Ideas
+TLDR: [Link to CfP submission form](https://pretalx.r3s.nrw/r3s/), deadline: 11/23/2020 11:42PM.
 
 The Remote-Rhein-Ruhr-Stage offers a podium for everyone physical space on the virtual congress for people, projects, groups and communities.
 This year there will be no congress as we have known from previous years. Instead, this time it will be a distributed event, with many opportunities to attend remotely.
@@ -32,8 +33,8 @@ Conceivable are classic presentations, for which we provide you with the appropr
 
 # What's next?
 
-- For specific suggestions such as talks, workshops, parties, implementation of ideas: [Click here for the pretalx] (https://pretalx.r3s.nrw/r3s/)
-- If you would like to help us with the organization: [here to the unicorn system] (https://einhorn.r3s.nrw).
+- For specific suggestions such as talks, workshops, parties, implementation of ideas: [Click here for the pretalx](https://pretalx.r3s.nrw/r3s/)
+- If you would like to help us with the organization: [here to the unicorn system](https://einhorn.r3s.nrw).
 - At the weekly Mumble appointments (see news) we also talk about things that don't fit into the above grid.
 
 **Greetings from the [r3s Orgateam] (mailto: orga@r3s.nrw)**
