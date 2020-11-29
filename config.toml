@@ -1,7 +1,7 @@
 baseURL = "https://r3s.nrw/"
 languageCode = "en"
 title = "Remote Rhein Ruhr Stage - r3s"
-theme = ["osm","ananke"]
+theme = ["osm","anpassungen","ananke"]
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
@@ -91,12 +91,12 @@ enableRobotsTXT = false
     weight = 5
     url = "https://einhorn.r3s.nrw/"
 
-  [[languages.en.menu.main]]
+  [[languages.en.menu.footer]]
     name = "Impressum"
     weight = 6
     url = "/en/impressum/"
 
-  [[languages.de.menu.main]]
+  [[languages.de.menu.footer]]
     name = "Impressum"
     weight = 6
     url = "/impressum/"
