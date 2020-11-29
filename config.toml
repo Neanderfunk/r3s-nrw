@@ -30,6 +30,7 @@ enableRobotsTXT = false
   mastodon = "https://chaos.social/@r3s"
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
+  custom_css = ["/css/anpassungen.css"]
 
   [[languages.en.menu.main]]
     name = "CfP"
