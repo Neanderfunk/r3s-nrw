@@ -6,6 +6,7 @@ theme = ["osm","anpassungen","ananke"]
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 enableRobotsTXT = false
+enableInlineShortcodes = true
 
 [languages]
 
