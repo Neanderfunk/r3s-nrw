@@ -17,6 +17,10 @@ Live auf [YouTube](https://www.youtube.com/channel/UCDK9u9AsGRWO3MOiCFCq4hQ/live
 
 {{< youtube >}}
 
+Live auf [Chaos West TV](https://cdn.chaoswest.tv/play/#rc3-r3s)
+
+{{< chaoswest >}}
+
 ## Corona kann uns mal!
 
 Der 37c3 findet dieses Jahr nicht in Leipzig, sondern im Cyberspace statt, denn natürlich ist es keine Option, diese tolle Veranstaltung dem zur Zeit alles beherrschenden Virus zum Opfer fallen zu lassen. Auch wir haben überlegt, wie wir mitmachen und regelkonform Corona trotzen können. Die Antwort lautet nicht 42 sondern r3s.

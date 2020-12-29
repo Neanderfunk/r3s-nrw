@@ -17,6 +17,10 @@ Live on [YouTube](https://www.youtube.com/channel/UCDK9u9AsGRWO3MOiCFCq4hQ/live)
 
 {{< youtube >}}
 
+Live auf [Chaos West TV](https://cdn.chaoswest.tv/play/#rc3-r3s)
+
+{{< chaoswest >}}
+
 ## Why?
 Sadly, due to the current situation, there will be no Chaos Communication Congress this year. Instead there
 will be the "Remote Chaos Experience" (rC3) with many opportunities to participate. For participation we offer a stage, so anyone interested can give a talk or workshop without having to set-up additional equipment.
